@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.log
+venv/
+.pytest_cache/
+upload_result.json
+sample.jpg
+models/
+static/audio/
+static/uploads/
+*.pyc
+*.pyo
+.vscode/
